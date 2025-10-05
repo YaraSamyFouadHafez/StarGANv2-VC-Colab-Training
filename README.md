@@ -1,6 +1,6 @@
 # 🎤 StarGANv2-VC Google Colab Training
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/StarGANv2-VC-Colab-Training/blob/main/Train_StarGANv2_VC.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YaraSamyFouadHafez/StarGANv2-VC-Colab-Training/blob/main/Train_StarGANv2_VC.ipynb)
 
 **Train your own voice conversion model using Google Colab's FREE GPU!**
 
@@ -297,7 +297,7 @@ It helps others discover this resource and motivates continued development.
 
 **Questions? Issues? Feedback?**
 
-- Open an [Issue](https://github.com/YOUR_USERNAME/StarGANv2-VC-Colab-Training/issues)
+- Open an [Issue](https://github.com/YaraSamyFouadHafez/StarGANv2-VC-Colab-Training/issues)
 - Check [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
 - See [DETAILED_GUIDE.md](DETAILED_GUIDE.md)
 
@@ -309,6 +309,6 @@ It helps others discover this resource and motivates continued development.
 
 Made with ❤️ for the voice conversion community
 
-[![Star on GitHub](https://img.shields.io/github/stars/YOUR_USERNAME/StarGANv2-VC-Colab-Training.svg?style=social)](https://github.com/YOUR_USERNAME/StarGANv2-VC-Colab-Training)
+[![Star on GitHub](https://img.shields.io/github/stars/YaraSamyFouadHafez/StarGANv2-VC-Colab-Training.svg?style=social)](https://github.com/YaraSamyFouadHafez/StarGANv2-VC-Colab-Training)
 
 </div>
